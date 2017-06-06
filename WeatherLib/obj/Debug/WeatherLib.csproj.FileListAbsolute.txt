@@ -1,0 +1,27 @@
+C:/Users/coffe/Desktop/Weather-master/WeatherLib/bin/Debug/WeatherLib.dll
+C:/Users/coffe/Desktop/Weather-master/WeatherLib/bin/Debug/WeatherLib.pdb
+C:/Users/coffe/Desktop/Weather-master/WeatherLib/bin/Debug/log4net.dll
+C:/Users/coffe/Desktop/Weather-master/WeatherLib/bin/Debug/log4net.xml
+C:/Users/coffe/Desktop/Weather-master/WeatherLib/obj/Debug/WeatherLib.dll
+C:/Users/coffe/Desktop/Weather-master/WeatherLib/obj/Debug/WeatherLib.pdb
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/bin/Debug/WeatherLib.dll
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/bin/Debug/WeatherLib.pdb
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/bin/Debug/log4net.dll
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/bin/Debug/log4net.xml
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/obj/Debug/WeatherLib.csproj.CoreCompileInputs.cache
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/obj/Debug/WeatherLib.dll
+/Users/alexiancu/Downloads/Weather-master/WeatherLib/obj/Debug/WeatherLib.pdb
+C:/Users/coffe/Desktop/iancu proiect/Weather-master/WeatherLib/bin/Debug/WeatherLib.dll
+C:/Users/coffe/Desktop/iancu proiect/Weather-master/WeatherLib/bin/Debug/WeatherLib.pdb
+C:/Users/coffe/Desktop/iancu proiect/Weather-master/WeatherLib/bin/Debug/log4net.dll
+C:/Users/coffe/Desktop/iancu proiect/Weather-master/WeatherLib/bin/Debug/log4net.xml
+C:/Users/coffe/Desktop/iancu proiect/Weather-master/WeatherLib/obj/Debug/WeatherLib.dll
+C:/Users/coffe/Desktop/iancu proiect/Weather-master/WeatherLib/obj/Debug/WeatherLib.pdb
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/bin/Debug/WeatherLib.dll
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/bin/Debug/WeatherLib.pdb
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/bin/Debug/log4net.dll
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/bin/Debug/log4net.xml
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/obj/Debug/WeatherLib.csprojResolveAssemblyReference.cache
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/obj/Debug/WeatherLib.csproj.CoreCompileInputs.cache
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/obj/Debug/WeatherLib.dll
+/Users/alexiancu/Downloads/iancu proiect/Weather-master/WeatherLib/obj/Debug/WeatherLib.pdb

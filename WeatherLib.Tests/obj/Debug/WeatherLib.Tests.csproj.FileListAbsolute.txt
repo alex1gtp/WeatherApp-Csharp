@@ -1,0 +1,10 @@
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\WeatherLib.Tests.dll
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\WeatherLib.Tests.pdb
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\log4net.dll
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\WeatherLib.dll
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\WeatherLib.pdb
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\bin\Debug\log4net.xml
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\obj\Debug\WeatherLib.Tests.csprojResolveAssemblyReference.cache
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\obj\Debug\WeatherLib.Tests.dll
+C:\Users\coffe\Desktop\Weather-master\WeatherLib.Tests\obj\Debug\WeatherLib.Tests.pdb
